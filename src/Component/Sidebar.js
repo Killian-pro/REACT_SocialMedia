@@ -25,15 +25,15 @@ function Sidebar({ pageSelected, setPageSelected, setShowMessage }) {
             <div style={{ marginTop: '5vh', display: 'flex', justifyContent: 'center' }}>
                 <div style={{ width: "6vw", height: "6vw", borderRadius: 50, backgroundImage: `linear-gradient(to top right, #E2336B, #FCAC46)`, alignItems: 'center', justifyContent: 'center', display: 'flex', padding: 2 }}>
                     <div style={{ width: "6vw", height: "6vw", borderRadius: 50, backgroundColor: '#282A34', alignItems: 'center', justifyContent: 'center', display: 'flex' }}>
-                        <img style={{ width: "5.6vw", height: "5.6vw", borderRadius: 50 }} src={"https://images.unsplash.com/photo-1610068071990-49c06875e0bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"} alt="picture" />
+                        <img style={{ width: "5.6vw", height: "5.6vw", borderRadius: 50 }} src={"https://media-exp1.licdn.com/dms/image/C4D03AQGkLEuXpZ2MUw/profile-displayphoto-shrink_400_400/0/1603385536936?e=1651104000&v=beta&t=y5Cjk7ePlIyamvxFl-WxdOqdTvuAOH4RIgWEVQ-990A"} alt="picture" />
                     </div>
                 </div>
             </div>
             <div style={{ textAlign: 'center', marginTop: '2vh' }}>
-                Michaelle Jong
+                CLUZEL Killian
             </div>
             <div style={{ textAlign: 'center', marginTop: '1vh', fontSize: "0.8vw", color: '#606371', fontWeight: 'bold' }}>
-                @mi-jong
+                @Killian-pro
             </div>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', paddingLeft: "3vw", paddingRight: '3vw' }}>
                 <div style={{ textAlign: 'center', marginTop: '2vh' }}>
