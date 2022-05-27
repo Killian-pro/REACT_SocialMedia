@@ -25,7 +25,7 @@ function Sidebar({ pageSelected, setPageSelected, setShowMessage }) {
             <div style={{ marginTop: '5vh', display: 'flex', justifyContent: 'center' }}>
                 <div style={{ width: "6vw", height: "6vw", borderRadius: 50, backgroundImage: `linear-gradient(to top right, #E2336B, #FCAC46)`, alignItems: 'center', justifyContent: 'center', display: 'flex', padding: 2 }}>
                     <div style={{ width: "6vw", height: "6vw", borderRadius: 50, backgroundColor: '#282A34', alignItems: 'center', justifyContent: 'center', display: 'flex' }}>
-                        <img style={{ width: "5.6vw", height: "5.6vw", borderRadius: 50 }} src={"https://media-exp1.licdn.com/dms/image/C4D03AQGkLEuXpZ2MUw/profile-displayphoto-shrink_400_400/0/1603385536936?e=1651104000&v=beta&t=y5Cjk7ePlIyamvxFl-WxdOqdTvuAOH4RIgWEVQ-990A"} alt="picture" />
+                        <img style={{ width: "5.6vw", height: "5.6vw", borderRadius: 50 }} src={"https://media-exp1.licdn.com/dms/image/C4D03AQGkLEuXpZ2MUw/profile-displayphoto-shrink_100_100/0/1603385536936?e=2147483647&v=beta&t=l73Ei8SjzD_hIVRC0U0galTQ6W9Pf36QCwGkzgyIu7s"} alt="picture" />
                     </div>
                 </div>
             </div>
